@@ -16,7 +16,7 @@
   {
     "id": "2",
     "name:" "https://falabella.scene7.com/is/image/Falabella/gsc_114116649_888771_1?wid=1500&hei=1500&qlt=70",
-    "image": "/images/phone.jpg","
+    "image": "/images/phone.jpg",
     "description":
       "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
     "brand": "Apple",
@@ -45,7 +45,7 @@
     "image": "/images/playstation.jpg",
     "description":
       "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
-    "brand": "Sony',
+    "brand": "Sony",
     "category": "Electronics",
     "price": 399.99,
     "countInStock": 11,
