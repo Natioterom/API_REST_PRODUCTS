@@ -15,8 +15,8 @@
   },
   {
     "id": "2",
-    "name": "https://falabella.scene7.com/is/image/Falabella/gsc_114116649_888771_1?wid=1500&hei=1500&qlt=70",
-    "image": "/images/phone.jpg",
+    "name": "Iphone 12 Pro",
+    "image": "https://falabella.scene7.com/is/image/Falabella/gsc_114116649_888771_1?wid=1500&hei=1500&qlt=70",
     "description":
       "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
     "brand": "Apple",
@@ -28,8 +28,8 @@
   },
   {
     "id": "3",
-    "name": "https://www.canontiendaonline.cl/wcsstore/CCHCatalogAssetStore/3616C016_01.jpg",
-    "image": "/images/camera.jpg",
+    "name": "Camara cannon ",
+    "image": "https://www.canontiendaonline.cl/wcsstore/CCHCatalogAssetStore/3616C016_01.jpg",
     "description":
       "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
     "brand": "Cannon",
@@ -41,8 +41,8 @@
   },
   {
     "id": "4",
-    "name": "https://falabella.scene7.com/is/image/Falabella/gsc_114177807_915408_1?wid=1500&hei=1500&qlt=70",
-    "image": "/images/playstation.jpg",
+    "name": "PlayStation 4",
+    "image": "https://falabella.scene7.com/is/image/Falabella/gsc_114177807_915408_1?wid=1500&hei=1500&qlt=70",
     "description":
       "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
     "brand": "Sony",
@@ -54,8 +54,8 @@
   },
   {
     "id": "5",
-    "name": "https://infographicssolutions.cl/wp-content/uploads/2022/11/g502xplus.jpg",
-    "image": "/images/mouse.jpg",
+    "name": "Mouse gamer G",
+    "image": "https://infographicssolutions.cl/wp-content/uploads/2022/11/g502xplus.jpg",
     "description":
       "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
     "brand": "Logitech",
