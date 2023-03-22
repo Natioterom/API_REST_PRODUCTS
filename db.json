@@ -29,7 +29,7 @@
   {
     "id": "3",
     "name": "Camara cannon ",
-    "image": "https://www.canontiendaonline.cl/wcsstore/CCHCatalogAssetStore/3616C016_01.jpg",
+    "image": "https://bitbucket.org/ecomsur-tech-tests/front-end-tech-test/raw/b20e649d27546a68bea03c4982aafbb0c6c753a1/backend/public/images/camera.jpg",
     "description":
       "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
     "brand": "Cannon",
@@ -42,7 +42,7 @@
   {
     "id": "4",
     "name": "PlayStation 4",
-    "image": "https://falabella.scene7.com/is/image/Falabella/gsc_114177807_915408_1?wid=1500&hei=1500&qlt=70",
+    "image": "https://bitbucket.org/ecomsur-tech-tests/front-end-tech-test/raw/b20e649d27546a68bea03c4982aafbb0c6c753a1/backend/public/images/playstation.jpg",
     "description":
       "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
     "brand": "Sony",
@@ -55,7 +55,7 @@
   {
     "id": "5",
     "name": "Mouse gamer G",
-    "image": "https://infographicssolutions.cl/wp-content/uploads/2022/11/g502xplus.jpg",
+    "image": "https://bitbucket.org/ecomsur-tech-tests/front-end-tech-test/raw/b20e649d27546a68bea03c4982aafbb0c6c753a1/backend/public/images/camera.jpg",
     "description":
       "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
     "brand": "Logitech",
@@ -68,7 +68,7 @@
   {
     "id": "6",
     "name": "Amazon Echo Dot 3rd Generation",
-    "image": "https://falabella.scene7.com/is/image/Falabella/gsc_112878298_448212_1?wid=800&hei=800&qlt=70",
+    "image": "https://bitbucket.org/ecomsur-tech-tests/front-end-tech-test/raw/b20e649d27546a68bea03c4982aafbb0c6c753a1/backend/public/images/alexa.jpg",
     "description":
       "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
     "brand": "Amazon",
