@@ -1,4 +1,5 @@
-products = [
+{
+  products = [
   {
     "id": "1",
     "name": "Airpods Wireless Bluetooth Headphones",
@@ -34,7 +35,8 @@ products = [
     "brand": "Cannon",
     "category": "Electronics",
     "price": 929.99,
-    "countInStock": 5,"    "rating": 3,
+    "countInStock": 5,"   
+    "rating": 3,
     "numReviews": 12,
   },
   {
@@ -77,3 +79,4 @@ products = [
     "numReviews": 12,
   },
 ]
+}
